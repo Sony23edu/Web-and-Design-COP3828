@@ -1,0 +1,170 @@
+body{
+          font-family:Poiret One;
+    font-size:22px;
+    background-color:white;
+	color:#CCCCCC  ;
+	text-align: left;
+background-image: url("for.PNG");
+background-size: 120% 120%;
+
+
+
+}
+img {
+border-radius: 25px; box-shadow: 5px 5px 5px rgba(0, 121, 138, 1);
+  border-top : 3px solid rgba;
+  border-right : 3px solid rgba(0, 121, 138, 1);
+  border-bottom : 3px solid #1F0802 ;
+  border-left : 3px solid rgba;
+    background-color:#CEAE88;
+}
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 73%}
+    50%{background-position:100% 28%}
+    100%{background-position:0% 73%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 73%}
+    50%{background-position:100% 28%}
+    100%{background-position:0% 73%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 73%}
+    50%{background-position:100% 28%}
+    100%{background-position:0% 73%}
+}
+a{
+	color: #af0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited{
+	color: rgba(0, 121, 138, 1);
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+h3{
+	color: white;
+	font-size: 120%;
+	margin-top: 30px;
+	margin-bottom: 0;
+	position: relative;
+	padding: 0 0 0 25px;
+}
+
+h3 span{
+}
+
+p{
+	margin: 10px 0 5px 0;
+    color: white;
+}
+
+#container{
+	position: relative;
+	width: 760px;
+	border:1px solid #1F0802;
+	border-bottom: 0;
+	border-top: 0;
+	margin: 0 auto;
+	text-align: left;
+	background-color: #1F0802;
+}
+
+#pageHeader {
+	padding: 1px 0 0 15px;
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	height: 263px;
+	color: #FFFFFF;
+}
+
+#pageHeader h1{
+	width: 526px;
+	height: 1px;
+	margin-bottom: 0;
+}
+#pageHeader h1 span {
+	display: block;
+	width: 0;
+	height: 0;
+}
+
+#pageHeader h2{
+	width: 279px;
+	height: 1px;
+	margin-top: -22px;
+	margin-bottom: 25px;
+}
+
+#pageHeader h2 span {
+	display: block;
+	width: 0;
+	height: 0;
+}
+
+#preamble{
+	margin-left: 220px;
+	padding-right: 10px;
+	font-size: 90%;
+}
+
+#supportingText{
+	margin-left: 220px;
+	padding-right: 10px;
+	font-size: 90%;
+}
+
+#footer{
+	position: relative; 
+	left: -180px; 
+	padding: 65px 10px 30px 20px;
+}
+
+#linkList {
+	position: absolute;
+	left: 12px;
+	top: 323px;
+	width: 178px;
+	padding: 0 2px 0 0;
+	font-size: 80%;
+}
+
+#linkList h3{
+	margin: 0;
+	padding: 5px 0 5px 10px;
+	text-transform: lowercase;
+	color: #fff;
+	font-size: 100%;
+	background-color: #B07D50;
+}
+
+#linkList h3 span{
+	background: transparent;
+}
+
+#linkList ul {
+	margin: 0;
+	padding: 20px 10px 20px 10px;
+	list-style: none;
+	padding: 20px 10px 20px 10px;
+	background-repeat: repeat-x;
+}
+
+#linkList li{
+	padding-left: 18px; 
+	background: transparent url("flechita2.gif") 0 2px no-repeat;
+	margin-bottom: 7px;	
+	color: #818181;
+}
+
+#linkList li a{
+	color: #CEAE88;
+}
+
+#linkList li a.c{
+	color: #818181;
+}
